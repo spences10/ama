@@ -1,14 +1,14 @@
 # Ask me anything!
 
-## [Ask a question][ask-a-q]
+## [Ask a question]
 
 ## [Read questions][read-qs]
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-I'm an independent Analyst Developer working in the city of London in the financial sector, primarily dealing with Microsoft Office automation [VBA]. I have 10+ years experience and I'm only just starting out with JavaScript and web development.
+I'm a web developer in creative diital working in London UK.
 
-I'm [@ScottDevTweets][twitt-me] on twitter.
+I'm [@spences10] on twitter.
 
 I'm here to learn and share what I have learned.
 
@@ -31,8 +31,8 @@ I'm here to learn and share what I have learned.
 
 <!-- Links -->
 
-[ask-a-q]: ../../issues/new
-[read-qs]: ../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden
-[twitt-me]: https://twitter.com/ScottDevTweets
+[ask a question]: ../../issues/new
+[read questions]: ../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden
+[@spences10]: https://twitter.com/spences10
 
 
