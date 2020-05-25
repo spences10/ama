@@ -2,9 +2,9 @@
 
 ## [Ask a question]
 
-## [Read questions][read-qs]
+## [Read questions]
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means _anything_. Personal questions. Money. Work. Life. Code. Whatever.
 
 I'm a web developer in creative diital working in London UK.
 
@@ -28,11 +28,8 @@ I'm here to learn and share what I have learned.
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-
 <!-- Links -->
 
 [ask a question]: ../../issues/new
 [read questions]: ../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden
 [@spences10]: https://twitter.com/spences10
-
-
